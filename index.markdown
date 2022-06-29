@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Welcome to bittide!
+
+# Welcome to bittide!
