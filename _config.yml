@@ -1,7 +1,7 @@
 title: The bittide project
 email: bittide-org@google.com
 description: >- # this means to ignore newlines until "baseurl:"
-  bittide loves synchronous computing
+  bittide enables synchronous computing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.bittide.io" # the base hostname & protocol for your site, e.g. http://example.com
 

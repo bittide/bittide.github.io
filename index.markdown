@@ -4,5 +4,5 @@
 
 layout: home
 ---
- bittide is building a system architectures for synchronous distributed computing. For more info go to [github.com/bittide](https://github.com/bittide)
+ bittide is building system architectures for synchronous distributed computing. For more info go to [github.com/bittide](https://github.com/bittide)
 
