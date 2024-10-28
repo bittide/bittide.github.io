@@ -5,6 +5,8 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+ruby '>= 3.1'
+
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.2.2"
@@ -17,6 +19,16 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
+
+# Ruby 3.3.x deprecations:
+# gem xxx was loaded from the standard library, but is not part of the
+# default gems starting from ...
+gem 'base64'
+gem 'bigdecimal'
+gem 'csv'
+gem 'logger'
+gem 'ostruct'
+gem 'webrick'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
