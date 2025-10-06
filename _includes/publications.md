@@ -6,13 +6,13 @@
 
 1. [On Buffer Centering for bittide Synchronization](https://arxiv.org/abs/2303.11467) ([CoDIT 2023](https://codit2023.com/)) develops an algorithmic refinement of the bittide mechanism which allows precise control of the buffer occupancies.
 
-1. [Logical Synchrony Networks: A formal model for deterministic distribution](https://ieeexplore.ieee.org/document/10551846/) discusses how bittide's decoupling process execution from process synchronization enables preserving determinism and boundedness. The paper shows how Kahn Process Networks satisfy the LSN abstraction, and shows a comparison between FIFO platforms and bittide.
+1. [Logical Synchrony Networks: A Formal Model for Deterministic Distribution](https://ieeexplore.ieee.org/document/10551846/) discusses how bittide's decoupling process execution from process synchronization enables preserving determinism and boundedness. The paper shows how Kahn Process Networks satisfy the LSN abstraction, and shows a comparison between FIFO platforms and bittide.
 
 1. [Logical Synchrony and the bittide Mechanism](http://arxiv.org/abs/2308.00144) describes the logical time abstraction and how distributed processes may be synchronized within it. The invariants of the system are analyzed, and the latency properties are characterized.
 
-1. [bittide: Control time, not flows](https://arxiv.org/abs/2503.05033) ([HOTI 2025](https://hoti.org/)) presents the first hardware implementation of bittide, detailing the design using off-the-shelf FPGA boards and adjustable clock sources.
+1. [bittide: Control Time, not Flows](https://arxiv.org/abs/2503.05033) ([HOTI 2025](https://hoti.org/)) presents the first hardware implementation of bittide, detailing the design using off-the-shelf FPGA boards and adjustable clock sources.
 
-1. [Modeling buffer occupancy in bittide systems](https://arxiv.org/abs/2410.05432) ([2025 American Control Conference](https://ieeexplore.ieee.org/document/11107803)) analyzes the steady-state occupancy of the elastic buffers, a critical factor affecting system latency.
+1. [Modeling Buffer Occupancy in Bittide Systems](https://arxiv.org/abs/2410.05432) ([2025 American Control Conference](https://ieeexplore.ieee.org/document/11107803)) analyzes the steady-state occupancy of the elastic buffers, a critical factor affecting system latency.
 
-1. [Buffer centering for bittide synchronization via frame rotation](https://arxiv.org/abs/2504.07044) (2025 IEEE Conference on Decision and Control) introduces the frame-rotation method for centering buffer occupancies in a bittide network.
+1. [Buffer Centering for bittide Synchronization via Frame Rotation](https://arxiv.org/abs/2504.07044) (2025 IEEE Conference on Decision and Control) introduces the frame-rotation method for centering buffer occupancies in a bittide network.
 
