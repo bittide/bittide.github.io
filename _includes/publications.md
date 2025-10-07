@@ -14,5 +14,7 @@
 
 1. [Modeling Buffer Occupancy in Bittide Systems](https://arxiv.org/abs/2410.05432) ([2025 American Control Conference](https://ieeexplore.ieee.org/document/11107803)) analyzes the steady-state occupancy of the elastic buffers, a critical factor affecting system latency.
 
+1. [Timetime: A programming model for logically synchronous distributed systems](https://arxiv.org/abs/2507.14471) ([2025 ACM TECS]) develops a novel multiclock semantics of synchronous programs.
+
 1. [Buffer Centering for bittide Synchronization via Frame Rotation](https://arxiv.org/abs/2504.07044) (2025 IEEE Conference on Decision and Control) introduces the frame-rotation method for centering buffer occupancies in a bittide network.
 
